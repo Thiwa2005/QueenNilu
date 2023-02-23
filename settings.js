@@ -22,7 +22,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['94788550861'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -34,13 +34,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'NIMA BOT' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'NIMA' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'KING NIMA' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_NIAM_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -75,7 +75,7 @@ global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
-global.LANG = 'EN'
+global.LANG = 'SI'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
